@@ -5,7 +5,7 @@ My name is Daniel Fenz, I am...
 - 👨‍🎓 currently studying [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/) at [TU Vienna](https://www.tuwien.at/) 
 - 🔭 currently working on [tgi-pages](https://github.com/tuwien2020/tgi-pages)
 
-🛠️ Everything is under construction at everypoint and at everytime
+🛠️ Everything is under construction at everypoint at anytime
 
 ## Languages & Tools
 <p align="left"> 
