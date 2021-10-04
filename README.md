@@ -42,10 +42,14 @@ My name is Daniel Fenz, I am...
 - 🔗 <a href="" target="_blank">LinkedIn</a>
 
 
-## Some Github Stats 📊
+## 📊 Some Github Stats 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fancy11111&show_icons=true&theme=dark&title_color=166d3b&locale=en&layout=compact" alt="Fancy11111" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fancy11111&show_icons=true&theme=dark&title_color=166d3b&locale=en" alt="Fancy11111" /></p>
 
+## 💡 How to Profile
+Username/Username is a repository that you can use to create a Profile via the README.md of that repo.
+
+For inspiration, take a look at [this repo (abhisheknaiidu/awesome-github-profile-readme)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--
 **Fancy11111/Fancy11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
