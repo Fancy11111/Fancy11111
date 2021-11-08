@@ -40,6 +40,7 @@ My name is Daniel Fenz, I am...
 - 📧 <a href="mailto:daniel.fenz.at@gmail.com" target="_blank">Mail</a>
 - 📷 <a href="" target="_blank">Instagram</a>
 - 🔗 <a href="" target="_blank">LinkedIn</a>
+- Discord: Da̴̓̕n̶̿̓i̴̙̊ě̸̿l̷͆̔#2000
 
 
 ## 📊 Some Github Stats 
