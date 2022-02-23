@@ -37,9 +37,10 @@ My name is Daniel Fenz, I am...
 </p>
 
 ## 📱 You can reach me through ...
-- 📧 <a href="mailto:daniel.fenz.at@gmail.com" target="_blank">Mail</a>
-- 📷 <a href="" target="_blank">Instagram</a>
-- 🔗 <a href="" target="_blank">LinkedIn</a>
+- 📧 <a href="mailto:daniel@fenz.io" target="_blank">Mail</a>
+- 📷 <a href="https://www.instagram.com/dafenz/" target="_blank">Instagram</a>
+- 🔗 <a href="https://www.linkedin.com/in/daniel-fenz-2b462b15a/" target="_blank">LinkedIn</a>
+- 🐦 <a href="https://twitter.com/FancyFenzi" target="_blank">Twitter</a>
 - Discord: Da̴̓̕n̶̿̓i̴̙̊ě̸̿l̷͆̔#2000
 
 
