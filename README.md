@@ -1,7 +1,7 @@
 ## Well hello there 👋
 
 My name is Daniel Fenz, I am...
-- 👨‍💼 currently working as a freelancer at [free-com]([https://github.com/free-com](https://free-com.eu/))
+- 👨‍💼 currently working as a Software Developer at [free-com]((https://free-com.eu/))
 - 👨‍🎓 currently studying [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/) at [TU Vienna](https://www.tuwien.at/) 
 
 🛠️ Everything is under construction at everypoint at anytime
