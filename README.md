@@ -1,9 +1,8 @@
 ## Well hello there 👋
 
 My name is Daniel Fenz, I am...
-- 👨‍💼 currently working as a freelancer at [Friendly Captcha](https://github.com/FriendlyCaptcha)
+- 👨‍💼 currently working as a freelancer at [free-com]([https://github.com/free-com](https://free-com.eu/))
 - 👨‍🎓 currently studying [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/) at [TU Vienna](https://www.tuwien.at/) 
-- 🔭 currently working on [tgi-pages](https://github.com/tuwien2020/tgi-pages)
 
 🛠️ Everything is under construction at everypoint at anytime
 
