@@ -2,7 +2,8 @@
 
 My name is Daniel Fenz, I am...
 - 👨‍💼 currently working as a Software Developer at [free-com](https://free-com.eu/)
-- 👨‍🎓 currently studying [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/) at [TU Vienna](https://www.tuwien.at/) 
+- 👨‍🎓 currently studying [Software Engineering & Internet Computing](https://tiss.tuwien.ac.at/curriculum/public/curriculum.xhtml?dswid=7523&dsrid=389&semester=YEAR&semesterCode=2024W&locale=en&key=56290&viewAcademicYear=true) at [TU Vienna](https://www.tuwien.at/) 
+- studied [Software and Information Engineering](https://informatics.tuwien.ac.at/bachelor/software-and-information-engineering/) at [TU Vienna](https://www.tuwien.at/) 
 
 🛠️ Everything is under construction all the anytime
 
